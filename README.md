@@ -1,11 +1,10 @@
-#🖩  Calculadora
+#🖩 Calculadora
 
 Se crea calculadora por medio de la interfaz grafica de tkinter.
 
-##🔘 Funcionalidades:
+##🖩 Funcionalidades:
 
--➕ Suma 
--➖ Resta
--✖️ Multiplicacion
--➗ Division
-
+- ➕ Suma 
+- ➖ Resta
+- ✖️ Multiplicacion
+- ➗ Division
